@@ -223,10 +223,10 @@ f) Insert a new tuple in MADE_MONEY, having values (“Hangover”, 1500000000, 
 |:-|:-|:-|:-|
 |22:32:31|insert into made_money value('Hangover', 1500000000, 20110305, 'Comedy')|Error Code: 1644. Cannot insert data because of the box office constraint.|0.00085 sec|
 
-g) Insert a new tuple in DIVORCED, with values (6, 2004-01-01). 
-|Couple_num|Day|
-|:-|:-|
-|6|2005-06-25|
+g) Insert a new tuple in DIVORCED, with values (6, 2004-01-01).   
+|Couple_num|Day|  
+|:-|:-|  
+|6|2005-06-25|  
 
 # 3. LOG_DATA table
 |Movie|Category|
